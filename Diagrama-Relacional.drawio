@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T17:34:00.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="X-mJKJOVVcNshCjf1Y--" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T18:07:29.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="qINFAulCy14MYWrWCOJ4" version="21.7.5" type="github">
   <diagram name="Página-1" id="8em8w8y3VOQJkTMZPaJ-">
     <mxGraphModel dx="839" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,16 +109,16 @@
         <mxCell id="lLViMfBe0DMVaWLhn5B8-1" value="&lt;u&gt;PlaylistID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="93" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLViMfBe0DMVaWLhn5B8-2" value="&lt;u&gt;Artist&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="lLViMfBe0DMVaWLhn5B8-2" value="Artist" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="213" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lLViMfBe0DMVaWLhn5B8-3" value="NameID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="lLViMfBe0DMVaWLhn5B8-3" value="SongID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="333" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="lLViMfBe0DMVaWLhn5B8-4" value="Song" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="93" y="600" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lLViMfBe0DMVaWLhn5B8-5" value="AlbumID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="lLViMfBe0DMVaWLhn5B8-5" value="Album" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="453" y="630" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
